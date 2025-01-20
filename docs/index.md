@@ -1,7 +1,7 @@
 # Selamat Datang
 
-## Di Panduan Aplikasi TRACER STUDY SISWA
+## Di Panduan Aplikasi Dom $an
 
-<img src="images/image.png" width="40%">
+<img src="Images/Modern Gradient D Logo (3).png" width="40%">
 
 [Memulai](01.md){ .md-button .md-button--primary }
