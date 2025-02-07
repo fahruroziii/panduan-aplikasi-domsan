@@ -48,4 +48,4 @@ Tabel Siswa PKL
 
 |No|Nama|Guru Pembimbing|
 |-|-|-|
-|1| Eko Adi Putra Sarjana.Komputer| Kelompok 2|
+|1| Eko Adi Putra S.Komputer| Kelompok 2|
