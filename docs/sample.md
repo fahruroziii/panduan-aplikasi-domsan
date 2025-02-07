@@ -22,7 +22,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 !!! note "Catatan"
     ini adalah catatan
 
-!!! abstrac "Referensi"
+!!! abstract "Referensi"
     ini referensi lain
 
 !!! question "Pertanyaan"
@@ -31,8 +31,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 !!! example "Tantangan"
     coba tantangan berikut
 
-!!! succes "Jawab"
-    Jawabannya adalah A
+!!! success "Jawaban"
+    Jawabanya adalah A
 
 !!! warning "Peringatan"
     Perhatikan baris pertama
@@ -40,5 +40,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 !!! bug "Eror"
     Lihat baris error
 
-??? succes "Jawaban"
+??? success "Jawaban"
     Jawaban yang paling benar adalah C

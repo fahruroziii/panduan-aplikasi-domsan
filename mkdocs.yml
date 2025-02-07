@@ -7,18 +7,18 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: blue
-      accent:  Blue
+      primary: light blue
+      accent:  light blue
       toggle:
-        icon: material/lightbulb
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary:  blue
-      accent:  blue
+      primary:  light blue
+      accent: blue
       toggle:
-        icon: material/lightbulb-outline 
+        icon: material/weather-sunny
         name: Switch to light mode
 
   # Mengatur font
@@ -63,8 +63,7 @@ markdown_extensions:
   # Keyboard
   - pymdownx.keys
 # Footer
-copyright: Made with ❤️ by Telkomsel Bersatu | &copy; 2025
-
+copyright: Made by Sella Ayunia ❤️ Kelompok 2 | &copy; 2025
 
 extra:
   generator: false

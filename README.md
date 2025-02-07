@@ -11,16 +11,22 @@ ini texs biasa
 [ini adalah google](htts://google.com)
 
 Nama Siswa
-1. Fahrur
-2. Fauzi
-3. Alif
-4. Aulia
+1. Alif
+2. Aulia
+3. Fahrur
+4. Fauzi
 5. Sella
 
 Nama Buah
+- Stroberi
 - Mangga
+- Apple
 - Jeruk
+- Nanas
+- Jambu 
+- Anggur
 - Melon
+  dan Lain-Lain😂
 
 Tabel Siswa
 |No|Nama|Kelas|
@@ -32,10 +38,14 @@ Tabel Siswa
 |5|Sella|11|
 
 Tabel Siswa PKL
-|No|Nama|Kelas|Jurusan|Ruang|
+|No|Nama|Kelas|Jurusan|Kelompok|
 |-|-|-|-|-|
 |1|Aulia Fatmawati|11|Pplg|02|
 |2|Rizky Alif Khoirul Anam|11|Pplg|02|
-|3|M Fahrur Rozi|11|Pplg|02|
-|4|M Fauzi Afandi|11|Pplg|02|
+|3|Muhammad Fahrur Rozi|11|Pplg|02|
+|4|Muhammad Fauzi Afandi|11|Pplg|02|
 |5|Sella Ayunia|11|Pplg|02|
+
+|No|Nama|Guru Pembimbing|
+|-|-|-|
+|1| Eko Adi Putra Sarjana.Komputer| Kelompok 2|

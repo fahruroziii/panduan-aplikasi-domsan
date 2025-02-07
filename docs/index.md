@@ -1,6 +1,6 @@
-# Selamat Datang
+# *Selamat Datang*
 
-## Di Panduan Aplikasi Dom $an
+## **Di Panduan Aplikasi Dom $an**
 
 <img src="Images/Modern Gradient D Logo (3).png" width="40%">
 
